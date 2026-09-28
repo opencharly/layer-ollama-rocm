@@ -1,7 +1,5 @@
-version: 2026.232.0520
 ollama-rocm:
     candy:
-        version: 2026.229.1218
         description: |
             AMD ROCm inference backend for the ollama LLM server
             Adds the ROCm/HIP ggml backend so a composing box runs inference on an AMD
