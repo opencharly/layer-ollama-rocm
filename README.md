@@ -63,6 +63,8 @@ my-ollama-amd:
 
 ## Related
 
+- Closest family skill: `/charly-ollama:ollama` — the nearest owning procedure; this
+  repo carries no `skill:` entity of its own.
 - Base server: `/charly-ollama:ollama` — the CPU-first Ollama server this adds to.
 - NVIDIA alternative: `opencharly/layer-ollama-cuda`.
 - ROCm runtime: `/charly-distros:rocm`.
