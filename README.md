@@ -47,7 +47,6 @@ Compose the add-on alongside the base Ollama candy in an AMD GPU box:
 ```yaml
 my-ollama-amd:
   candy:
-    # the named box's value is the box BODY; `base:` and the `candy:` list are its keys
     base: cachyos
     candy:
       - '@github.com/opencharly/pod-ollama:v2026.243.0411'
